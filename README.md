@@ -1,0 +1,2 @@
+- pytorch tutorial
+- pytorch lightning tutorial w MNIST
