@@ -1,2 +1,4 @@
 - pytorch tutorial
 - pytorch lightning tutorial w MNIST
+- image classification (vgg16 transfer learning)
+- anomaly detection with GAN
